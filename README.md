@@ -1,5 +1,5 @@
 # Topic_Modeling_concepts
-Key concepts of topic modeling and their codes
+Key concepts of topic modeling with codes
 
 # Dataset
 Data collected on multiple powertrain technologies such as electric vehicle, hybrid electric vehicle, fuel cells vehicles and internal combusion engine(traditional vehicles) patent. We have made a text analysis on these technologies and performed topic modeling.
